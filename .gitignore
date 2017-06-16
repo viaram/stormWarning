@@ -1,0 +1,8 @@
+.metadata/
+RemoteSystemsTempFiles/
+stormWarning/bin/
+stormWarning/.settings/
+stormWarning/.externalToolBuilders/
+stormWarning/target/
+stormWarning/.classpath
+stormWarning/.project
